@@ -1,4 +1,4 @@
-# Flash Loan Hardhat Project
+# Flash Loan arbitrage Project
 
 This project implements a flash loan smart contract using Solidity and Hardhat. It allows users to borrow assets without collateral, provided that the loan is repaid within the same transaction.
 
